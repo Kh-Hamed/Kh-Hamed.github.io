@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here You can see the last version of my [CV](http://academicpages.github.io/files/Hamed_Khatounabadi_CV_Website.pdf)
+Here You can see the last version of my [CV](https://kh-hamed.github.io/files/Hamed_Khatounabadi_CV_Website.pdf)
 
 <!-- Education
 ======
