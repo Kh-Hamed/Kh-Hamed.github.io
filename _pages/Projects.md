@@ -12,7 +12,7 @@ redirect_from:
 Here You can see the last version of my [CV](https://kh-hamed.github.io/files/Hamed_Khatounabadi_CV_Website.pdf) -->
 
 
-1- [Artificial Intelligence](https://github.com/Kh-Hamed/Artificial_Intelligence_PRJ)[Sharif University]
+1- ===[Artificial Intelligence](https://github.com/Kh-Hamed/Artificial_Intelligence_PRJ)[Sharif University]
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
