@@ -12,7 +12,7 @@ I’m a graduate student in the Electrical and Computer Engineering program at M
 
 ## News!
 
-- December 2022: Received the [best BSc. thesis award] from IEEE Iran section(https://Kh-Hamed.github.io/images/Award.jpg), 
+- December 2022: Received the [best BSc. thesis award](https://kh-hamed.github.io/images/Award.jpg) from IEEE Iran section, <br>
 [check it out](https://www.itrc.ac.ir/news/58391)(you can traslate the website if you are not a persian person)!
 
 
