@@ -12,7 +12,10 @@ redirect_from:
 Here You can see the last version of my [CV](https://kh-hamed.github.io/files/Hamed_Khatounabadi_CV_Website.pdf) -->
 
 
-<span style="font-size: 16px;">1- [Artificial Intelligence](https://github.com/Kh-Hamed/Artificial_Intelligence_PRJ)[Sharif University]
+<span style="font-size: 16px;">- 1 Classification btw brain activities in EEG signal via NN & RBF[Artificial Intelligence](https://github.com/Kh-Hamed/Artificial_Intelligence_PRJ)[Sharif University]
+
+<span style="font-size: 16px;">- 2 Find The Highest Score for String Matching via Aho-Corasick [Data Structure and Algorithms](https://github.com/Kh-Hamed/Aho-Corasick-algorithm)[Sharif University]
+
 
 <!-- ======
 * B.S. in GitHub, GitHub University, 2012
