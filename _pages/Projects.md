@@ -14,10 +14,10 @@ Here You can see the last version of my [CV](https://kh-hamed.github.io/files/Ha
 
 <span style="font-size: 16px;">1- [Artificial Intelligence](https://github.com/Kh-Hamed/Artificial_Intelligence_PRJ)[Sharif University]
 
-======
+<!-- ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <!-- Work experience
 ======
