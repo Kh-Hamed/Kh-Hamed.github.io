@@ -16,6 +16,11 @@ Here You can see the last version of my [CV](https://kh-hamed.github.io/files/Ha
 
 <span style="font-size: 16px;">- 2 Find The Highest Score for String Matching via Aho-Corasick [Data Structure and Algorithms](https://github.com/Kh-Hamed/Aho-Corasick-algorithm)[Sharif University]
 
+<span style="font-size: 16px;">- 3 Enhancing YOLOv5 Object Detection and Tracking Integrated with DeepSORT Algorithm for Autonomous Vehicles [Computer Vision](https://github.com/Kh-Hamed/Computer-Vision-Object-Detection)[Michigan State University]
+
+<span style="font-size: 16px;">- 4 Live Kalman Filter [Detection and Estimation Theory](https://github.com/Kh-Hamed/Kalman-Filter)[Michigan State University]
+<span style="font-size: 16px;">- 5 Image denoising techniques (RPCA, SVD, TV Inpainting) and their applications for CNNs [Computational Optimization](https://github.com/Kh-Hamed/RPCA-SVD-TV-INPAINTING)[Michigan State University]
+
 
 <!-- ======
 * B.S. in GitHub, GitHub University, 2012

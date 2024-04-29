@@ -8,14 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I’m a graduate student in the Electrical and Computer Engineering program at Michigan State University. My interests include Computer-Vision, 3D Object Detection, and Multi-Modal Object Detection. My supervisor is [Prof. Hayder Radha](https://scholar.google.com/citations?hl=en&user=GJaAw1EAAAAJ&view_op=list_works&sortby=pubdate).
+I’m a graduate student in the Electrical and Computer Engineering program at Michigan State University. My interests include Computer-Vision, 3D Object Detection, Multi-Modal Object Detection, and applied machine learning. 
+<!-- My supervisor is [Prof. Hayder Radha](https://scholar.google.com/citations?hl=en&user=GJaAw1EAAAAJ&view_op=list_works&sortby=pubdate). -->
+
+
+I'm a greedy person, and I always looking for challenge in my life 😈.
+
 
 ## News!
+
+- February 2024: Our Paper ["The Michigan State University Four Seasons (MSU-4S) Dataset"](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) has been accepted to **CVPR2024**.  ["Paper"](https://www.egr.msu.edu/waves/msu4s/)
+
+- May 2023: I won the Summer Fellowship (**$7600**) from the College of Engineering At Michigan State University.
 
 - December 2022: Received the [best BSc. thesis award](https://kh-hamed.github.io/images/Award.jpg) from IEEE Iran section, <br>
 [check it out](https://www.itrc.ac.ir/news/58391)(you can traslate the website if you are not a persian person)!
 
-- May 2023: I won the Summer Fellowship (**$7600**) from the College of Engineering At Michigan State University.
+
+Education
+------
+<img src="images/msu_logo.png" alt="MSU" width="25" height="25"> Graduate student in Electrical and Computer Engineering at Michigan State University, East Lansing (Sep 2022-Present)
+
+
+<img src="images/sharif.svg"  alt="SUT" width="25" height="25"> B.Sc. in Electrical Engineering at Sharif University of Technology, Tehran (2017-2022)
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
