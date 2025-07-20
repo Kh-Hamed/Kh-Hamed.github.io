@@ -29,7 +29,7 @@ author:
   location         : "Michigan, USA"
   employer         : # e.g. "Michigan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # URL 
 
   # Academic websites
   academia         : # URL
