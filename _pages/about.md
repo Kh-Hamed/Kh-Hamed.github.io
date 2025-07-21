@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I’m a graduate student in the Electrical and Computer Engineering program at Michigan State University. My interests include Computer-Vision, 3D Object Detection, Multi-Modal Object Detection, and applied machine learning. 
+I’m a PhD student in the Electrical and Computer Engineering program at Michigan State University. My interests include Computer-Vision, 3D Object Detection, Multi-Modal Object Detection, and applied machine learning. 
 <!-- My supervisor is [Prof. Hayder Radha](https://scholar.google.com/citations?hl=en&user=GJaAw1EAAAAJ&view_op=list_works&sortby=pubdate). -->
 
 
-I'm a greedy person, and I always looking for challenge in my life 😈.
+I always looking for challenge in my life 😈.
 
 
 ## News!
@@ -26,10 +26,12 @@ I'm a greedy person, and I always looking for challenge in my life 😈.
 
 Education
 ------
-<img src="images/msu_logo.png" alt="MSU" width="25" height="25"> Graduate student in Electrical and Computer Engineering at Michigan State University, East Lansing (Sep 2022-Present)
+<img src="images/michigan-state-university_logo.svg" alt="MSU" width="25" height="25"> Ph.D. in ECE at Michigan State University, MI, USA (Sep 2022-EXP: Fall 2027)
+
+<img src="images/michigan-state-university_logo.svg" alt="MSU" width="25" height="25"> M.Sc in ECE at Michigan State University, MI, USA (Sep 2022-May 2025)
 
 
-<img src="images/sharif.svg"  alt="SUT" width="25" height="25"> B.Sc. in Electrical Engineering at Sharif University of Technology, Tehran (2017-2022)
+<img src="images/sharif.svg"  alt="SUT" width="25" height="25"> B.Sc. in EE at Sharif University of Technology, Tehran (Sep, 2017-Feb, 2022)
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
