@@ -7,28 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student in the Electrical and Computer Engineering program at Michigan State University. My interests include Computer-Vision, 3D Object Detection, Multi-Modal Object Detection, and applied machine learning. 
+I’m a PhD student in the Electrical and Computer Engineering program at Michigan State University. My interests include Computer-Vision, 3D Object Detection, Multi-Modal Object Detection, and foundational models. 
 <!-- My supervisor is [Prof. Hayder Radha](https://scholar.google.com/citations?hl=en&user=GJaAw1EAAAAJ&view_op=list_works&sortby=pubdate). -->
 
 
-I always looking for challenge in my life 😈.
+I  actively seek challenges and enjoys learning new things 💡.
 
 
 ## News!
 
-- February 2024: Our Paper ["The Michigan State University Four Seasons (MSU-4S) Dataset"](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) has been accepted to **CVPR2024**.  ["Paper"](https://www.egr.msu.edu/waves/msu4s/)
+- April 2026: ✅ Successfully passed PhD Qualification Exam in Electrical and Computer Engineering at Michigan State University.
 
-- May 2023: I won the Summer Fellowship (**$7600**) from the College of Engineering At Michigan State University.
+- January 2026: 🎉 Two papers accepted to **IEEE Intelligent Vehicles (IV 2026)**:
+  - *WILD-SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather*  
+    <b><span style="color:#1f77b4;">Hamed Khatounabadi</span></b>, Xiaohu Lu, Hayder Radha  
+    📄 [arXiv](https://arxiv.org/abs/2605.01081) | 💻 [Code](https://github.com/Kh-Hamed/WILD-SAM)
+  - *MUSDA: Multi-source Multi-modality Unsupervised Domain Adaptive 3D Object Detection for Autonomous Driving*  
+    Xiaohu Lu, <b><span style="color:#1f77b4;">Hamed Khatounabadi</span></b>, Hayder Radha
 
-- December 2022: Received the [best BSc. thesis award](https://kh-hamed.github.io/images/Award.jpg) from IEEE Iran section, <br>
-[check it out](https://www.itrc.ac.ir/news/58391)(you can traslate the website if you are not a persian person)!
+- June 2024: 🚀 *MSU-4S: The Michigan State University Four Seasons Dataset* accepted to **CVPR 2024**  
+  Daniel Kent, Mohammed Alyaqoub, Xiaohu Lu, <b><span style="color:#1f77b4;">Hamed Khatounabadi</span></b>, Kookjin Sung, Cole Scheller, Alexander Dalat, Xinwei Guo, Asma bin Thabit, Roberto Whitley, Hayder Radha  
+  📄 [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kent_MSU-4S_-_The_Michigan_State_University_Four_Seasons_Dataset_CVPR_2024_paper.pdf)  
+  🔗 [Project Page](https://www.egr.msu.edu/waves/msu4s/)
+
+- May 2023: 🏆 Received the Summer Fellowship (**$7600**) from the College of Engineering at Michigan State University.
+
+- December 2022: 🎓 Received the **Best BSc Thesis Award** from IEEE Iran Section.  
+  <!-- 🔗 [Check it out](https://www.itrc.ac.ir/news/58391) -->
+   🔗 [Check it out](images/Award.jpg)
 
 
 Education
 ------
-<img src="images/michigan-state-university_logo.svg" alt="MSU" width="25" height="25"> Ph.D. in ECE at Michigan State University, MI, USA (Sep 2022-EXP: Fall 2027)
+<img src="images/Michigan-State-Spartans-logo.png" alt="MSU" width="25" height="25"> Ph.D. in ECE at Michigan State University, MI, USA (Sep 2022-EXP: Fall 2027)
 
-<img src="images/michigan-state-university_logo.svg" alt="MSU" width="25" height="25"> M.Sc in ECE at Michigan State University, MI, USA (Sep 2022-May 2025)
+<img src="images/Michigan-State-Spartans-logo.png" alt="MSU" width="25" height="25"> M.Sc in ECE at Michigan State University, MI, USA (Sep 2022-May 2025)
 
 
 <img src="images/sharif.svg"  alt="SUT" width="25" height="25"> B.Sc. in EE at Sharif University of Technology, Tehran (Sep, 2017-Feb, 2022)
