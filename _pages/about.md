@@ -15,6 +15,7 @@ I  actively seek challenges and enjoys learning new things 💡.
 
 
 ## News!
+- May 2026: 🏆 Received the Graduate Opportunity Fellowship (GoF) (**$8500**) from the College of Engineering, Michigan State University.
 
 - April 2026: ✅ Successfully passed PhD Qualification Exam in Electrical and Computer Engineering at Michigan State University.
 
