@@ -22,11 +22,13 @@ I  actively seek challenges and enjoys learning new things 💡.
 - January 2026: 🎉 Two papers accepted to **IEEE Intelligent Vehicles (IV 2026)**:
   - *WILD-SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather*  
     <b><span style="color:#1f77b4;">Hamed Khatounabadi</span></b>, Xiaohu Lu, Hayder Radha <br>
-    📄 [arXiv](https://arxiv.org/abs/2605.01081) | 💻 [Code](https://github.com/Kh-Hamed/WILD-SAM)
+    📘 [IEEE Xplore](https://doi.org/10.1109/IV66570.2026.11624027) | 📄 [arXiv](https://arxiv.org/abs/2605.01081) | 💻 [Code](https://github.com/Kh-Hamed/WILD-SAM)
+
 
   - *MUSDA: Multi-source Multi-modality Unsupervised Domain Adaptive 3D Object Detection for Autonomous Driving*  
     Xiaohu Lu, <b><span style="color:#1f77b4;">Hamed Khatounabadi</span></b>, Hayder Radha <br>
-    📄 [arXiv](https://arxiv.org/abs/2605.10026)
+    📘 [IEEE Xplore](https://doi.org/10.1109/IV66570.2026.11624035) | 📄 [arXiv](https://arxiv.org/abs/2605.10026)
+
 
 - June 2024: 🚀 *MSU-4S: The Michigan State University Four Seasons Dataset* accepted to **CVPR 2024**  
   Daniel Kent, Mohammed Alyaqoub, Xiaohu Lu, <b><span style="color:#1f77b4;">Hamed Khatounabadi</span></b>, Kookjin Sung, Cole Scheller, Alexander Dalat, Xinwei Guo, Asma bin Thabit, Roberto Whitley, Hayder Radha <br>
