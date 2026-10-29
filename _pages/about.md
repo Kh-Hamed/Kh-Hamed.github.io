@@ -42,7 +42,7 @@ I  actively seek challenges and enjoys learning new things 💡.
 
 Education
 ------
-<img src="images/Michigan-State-Spartans-logo.png" alt="MSU" width="25" height="25"> Ph.D. in ECE at Michigan State University, MI, USA (Sep 2022-EXP: Fall 2027)
+<img src="images/Michigan-State-Spartans-logo.png" alt="MSU" width="25" height="25"> Ph.D. in ECE at Michigan State University, MI, USA (Sep 2022 -- Present)
 
 <img src="images/Michigan-State-Spartans-logo.png" alt="MSU" width="25" height="25"> M.Sc in ECE at Michigan State University, MI, USA (Sep 2022-May 2025)
 
