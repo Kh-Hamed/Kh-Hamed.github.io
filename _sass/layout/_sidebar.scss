@@ -93,29 +93,21 @@
     height: auto;
   }
 
-//   img {
-//     max-width: 175px;
-//     border-radius: 50%;
-
-//     @include breakpoint($large) {
-//       padding: 5px;
-//       border: 1px solid var(--global-border-color);
-//     }
-//   }
-// }
   img {
     max-width: 175px;
     width: 100%;
-    aspect-ratio: 1 / 1;      // force a square box
-    object-fit: cover;        // crop the portrait photo to fill it
-    object-position: center top; // keep your face in frame; adjust if needed
-    border-radius: 0;         // square corners (use 4px for slightly rounded)
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 0;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
   }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;
